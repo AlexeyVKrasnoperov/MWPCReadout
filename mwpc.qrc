@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/folder-open.png</file>
+        <file>Icons/folder.png</file>
+        <file>Icons/forward.png</file>
+        <file>Icons/0-filled-48.png</file>
+        <file>Icons/1-filled-48.png</file>
+        <file>Icons/1462474388_package_settings.png</file>
+        <file>Icons/Actions-edit-clear-icon.png</file>
+        <file>Icons/add.png</file>
+        <file>Icons/gtk-preferences.png</file>
+        <file>Icons/histogram-down.png</file>
+        <file>Icons/qt-logo.png</file>
+        <file>Icons/Remove_48x48.png</file>
+        <file>Icons/Save.png</file>
+        <file>Icons/xfce-system-exit.png</file>
+    </qresource>
+</RCC>
